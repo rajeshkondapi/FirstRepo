@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F696-B168
+
+ Directory of C:\Users\rajesh.k\Desktop\gitexamples
+
+07/15/2020  08:48 AM    <DIR>          .
+07/15/2020  08:48 AM    <DIR>          ..
+07/15/2020  08:48 AM                 0 tst.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  29,626,548,224 bytes free
